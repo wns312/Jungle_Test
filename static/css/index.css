@@ -1,0 +1,17 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+}
+
+#memo-form {
+    width: 500px;
+    margin: 20px 0;
+}
+
+.hide {
+    display: none;
+}
